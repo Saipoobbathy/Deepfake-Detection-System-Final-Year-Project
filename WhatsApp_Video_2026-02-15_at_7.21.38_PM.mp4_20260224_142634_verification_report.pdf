@@ -1,0 +1,145 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1449 >>
+stream
+BT
+/F2 18 Tf
+1 0 0 1 50 800 Tm
+(Secure Deepfake Verification Report) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 778 Tm
+() Tj
+ET
+BT
+/F2 14 Tf
+1 0 0 1 50 760 Tm
+(Video Information) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 738 Tm
+(Filename: WhatsApp_Video_2026-02-15_at_7.21.38_PM.mp4) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 720 Tm
+(Upload timestamp: 2026-02-24 14:26:31) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 702 Tm
+() Tj
+ET
+BT
+/F2 14 Tf
+1 0 0 1 50 684 Tm
+(Deepfake Detection Result) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 662 Tm
+(Result: DEEPFAKE DETECTED) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 644 Tm
+(Confidence score: 90) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 626 Tm
+() Tj
+ET
+BT
+/F2 14 Tf
+1 0 0 1 50 608 Tm
+(Cryptographic Verification) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 50 586 Tm
+(Hash value: b960b3056c75fbaa231bf8f8ece9844f808e41655a9e8c1355b335e8d09b5697) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 568 Tm
+(Signature status: VALID) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 550 Tm
+(Algorithm used: Hybrid ECDSA \(ECC + DSA\)) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 532 Tm
+() Tj
+ET
+BT
+/F2 14 Tf
+1 0 0 1 50 514 Tm
+(Verification Metadata) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 492 Tm
+(Date & time: 2026-02-24 14:26:31) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 474 Tm
+(Logged-in user: Sharan001) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 456 Tm
+(System version: 1.0.0) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 438 Tm
+() Tj
+ET
+BT
+/F2 14 Tf
+1 0 0 1 50 420 Tm
+(Integrity Statement) Tj
+ET
+BT
+/F1 12 Tf
+1 0 0 1 50 398 Tm
+(Any modification to the file after signing invalidates this verification.) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1897
+%%EOF
